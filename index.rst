@@ -16,11 +16,18 @@ GUI and beginners
 
    faq
    invoices
-   2fa
    multisig
    coldstorage
    hardware-linux
    tails
+
+3 - Keys
+--------
+
+.. toctree::
+   :maxdepth: 2
+
+   three_keys
 
 Advanced users
 --------------
